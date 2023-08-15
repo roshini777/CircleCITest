@@ -68,5 +68,5 @@ workflows:
       # - welcome/run
       #- create_infrastructure
       #- configure_infrastructure
-      - smoke-test
+      - smoke_test
 
